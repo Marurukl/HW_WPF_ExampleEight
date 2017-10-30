@@ -1,0 +1,17 @@
+﻿<Window x:Class="ExampleEight.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExampleEight"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="elipseButton" Style="{DynamicResource elipseButton}" Content="Button" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="115" Height="58"/>
+        <Button x:Name="triangleButton" Style="{DynamicResource triangleButton}" Content="Button" HorizontalAlignment="Left" Margin="130,2,0,0" VerticalAlignment="Top" Width="95" Height="55"/>
+        <Button x:Name="circleButton" Style="{DynamicResource circleButton}" Content="Button" HorizontalAlignment="Left" Margin="251,2,0,0" VerticalAlignment="Top" Width="75" Height="71"/>
+        <Button x:Name="rectangleButton" Style="{DynamicResource rectangleButton}" Content="Button" HorizontalAlignment="Left" Margin="32,73,0,0" VerticalAlignment="Top" Width="75" Height="70"/>
+        <Button x:Name="hexagonButton" Style="{DynamicResource hexagonButton}" Content="Button" HorizontalAlignment="Left" Margin="130,62,0,0" VerticalAlignment="Top" Width="75" Height="81"/>
+
+    </Grid>
+</Window>

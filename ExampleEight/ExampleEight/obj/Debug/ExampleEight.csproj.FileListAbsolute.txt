@@ -1,0 +1,15 @@
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\bin\Debug\ExampleEight.exe.config
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\bin\Debug\ExampleEight.exe
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\bin\Debug\ExampleEight.pdb
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight.csprojResolveAssemblyReference.cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\MainWindow.g.cs
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\App.g.cs
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight_MarkupCompile.cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight_MarkupCompile.lref
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\App.baml
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\MainWindow.baml
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight.g.resources
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight.Properties.Resources.resources
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight.csproj.GenerateResource.Cache
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight.exe
+C:\Users\lGGlWPl\Documents\Visual Studio 2015\Projects\ExampleEight\ExampleEight\obj\Debug\ExampleEight.pdb
